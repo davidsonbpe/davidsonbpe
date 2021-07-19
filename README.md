@@ -27,7 +27,7 @@
 
 ### 💻 Retomar estatísticas e idiomas
 
-<img align="center" alt="davidsonbpe's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=davidsonbpe&show_icons=true&hide_border=true" />--<img align="center" alt="davidsonbpe's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsonbpe&layout=compact&theme=gotham" />
+<img align="center" alt="davidsonbpe's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=davidsonbpe&show_icons=true&hide_border=true" />-<img align="center" alt="davidsonbpe's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsonbpe&layout=compact&theme=gotham" />
 
 ---
 
